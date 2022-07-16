@@ -1,4 +1,3 @@
-@import "/css/resert.css";
 @import url("https://fonts.googleapis.com/css2? family= Poppins:wght@400;500;600;700 & display=swap");
 body {
   color: #000;
@@ -23,7 +22,7 @@ body {
 .logo {
   position: relative;
   padding: 0 12px 3px 0;
-  font-size: 32 px;
+  font-size: 32px;
   font-weight: 700;
   color: #000;
 }
@@ -58,7 +57,7 @@ body {
 .header-headding {
   font-weight: 600;
   font-size: 44px;
-  margin-bottom: 20 px;
+  margin-bottom: 20px;
 }
 .header-conteiner p {
   line-height: 2;
@@ -132,8 +131,7 @@ body {
   margin-right: auto;
   margin-bottom: 40px;
   font-size: 18px;
-  max-width: 480;
-  font-size: 18px;
+  max-width: 480px;
 }
 .contacts-buttom {
   margin-bottom: 80px;
